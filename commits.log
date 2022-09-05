@@ -1,0 +1,98 @@
+commit 67a8fd2d23f42ec35bdc3b8f623f0c8e2924d392
+Author: Diego Ramirez <dalejandro10@hotmail.com>
+Date:   Fri Sep 2 14:06:55 2022 -0500
+
+    Agregando 2 párrafos
+
+commit 2c2b233d349073533c0c992591f6e2600dd126e5
+Merge: 41e3884 42d8db2
+Author: Diego Ramirez <dalejandro10@hotmail.com>
+Date:   Fri Sep 2 14:01:57 2022 -0500
+
+    Se adicionó a las estaciones las fechas de inicio
+
+commit 41e388482ac82dfce03c0d78ddfd93e19d414aa6
+Author: Diego Ramirez <dalejandro10@hotmail.com>
+Date:   Fri Sep 2 13:24:38 2022 -0500
+
+    Agregamos las estaciones del año con fechas de inicio
+
+commit 42d8db2ced91bf281567cd37bbdbb2809c0d4166
+Author: Diego Ramirez <dalejandro10@hotmail.com>
+Date:   Fri Sep 2 13:24:38 2022 -0500
+
+    Agregando estaciones del año
+
+commit f1517a11e68c50a7d50d1ce225f62e0a0615dfaf
+Merge: 0ca0b18 e0dd39e
+Author: Diego Ramirez <dalejandro10@hotmail.com>
+Date:   Fri Sep 2 12:32:43 2022 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit e0dd39eda6d22b4f9d7d750645962576229bc352
+Author: Diego Ramirez <dalejandro10@hotmail.com>
+Date:   Fri Sep 2 12:16:45 2022 -0500
+
+    Agregando index.js al index.html
+
+commit 0ca0b187f87679677faf5079e6de2640e8bb5a89
+Author: Diego Ramirez <dalejandro10@hotmail.com>
+Date:   Fri Sep 2 12:10:37 2022 -0500
+
+    Agregando style.css al index.html
+
+commit aa22a8c05be9f821e72247a02d4da0fd05092654
+Merge: fa37118 8cb15d7
+Author: Diego Ramirez <dalejandro10@hotmail.com>
+Date:   Thu Sep 1 22:54:27 2022 -0500
+
+    Merge branch 'js'
+
+commit 8cb15d7042c7425706385715f5794c1eb49e1d5b
+Author: Diego Ramirez <dalejandro10@hotmail.com>
+Date:   Thu Sep 1 22:25:41 2022 -0500
+
+    Creando archivo Script desde la rama js, partiendo del main
+
+commit fa37118154275cd0a87db3580556814a1cf3f793
+Author: Diego Ramirez <dalejandro10@hotmail.com>
+Date:   Thu Sep 1 16:37:55 2022 -0500
+
+    Agregando CSS
+
+commit cd42a881aa56d768be5b91bb10d43d14a430b559
+Author: Diego Ramirez <dalejandro10@hotmail.com>
+Date:   Thu Sep 1 16:29:51 2022 -0500
+
+    Agregando HTML
+
+commit 62d6272e589767f417710a6cf815178865ec1a33
+Author: Diego Ramirez <dalejandro10@hotmail.com>
+Date:   Thu Sep 1 11:24:29 2022 -0500
+
+    Se plantea en el archivo .gitignore que git ignore todos los archivos .exe
+
+commit 0e3e730307c64c6d1c9ee8315506619d2b47ce2a
+Author: diego9412 <90967435+diego9412@users.noreply.github.com>
+Date:   Wed Aug 31 22:59:15 2022 -0500
+
+    Creando licencia del repositorio
+
+commit c27217b9d3351eb8f4e6df81b241ad8c4f5f616e
+Author: Diego Ramirez <dalejandro10@hotmail.com>
+Date:   Wed Aug 31 22:43:31 2022 -0500
+
+    Se realizarón nuevos cambios al contenido del README.md
+
+commit 409c3bde0b02969c037c6f75cadde17f2039fc11
+Author: Diego Ramirez <dalejandro10@hotmail.com>
+Date:   Wed Aug 31 16:30:22 2022 -0500
+
+    Se agrego texto al archivo README.md
+
+commit 4a14f961b14ba4c726265d800948224f7e1110b4
+Author: Diego Ramirez <dalejandro10@hotmail.com>
+Date:   Wed Aug 31 15:39:52 2022 -0500
+
+    Primer Commit

@@ -1,0 +1,23 @@
+* 67a8fd2 Agregando 2 párrafos
+*   2c2b233 Se adicionó a las estaciones las fechas de inicio
+|\  
+| * 42d8db2 Agregando estaciones del año
+* | 41e3884 Agregamos las estaciones del año con fechas de inicio
+|/  
+*   f1517a1 Resolviendo conflicto merge main/html en el documento index.html
+|\  
+| * e0dd39e Agregando index.js al index.html
+* | 0ca0b18 Agregando style.css al index.html
+* |   aa22a8c Merge branch 'js'
+|\ \  
+| * | 8cb15d7 Creando archivo Script desde la rama js, partiendo del main
+* | | fa37118 Agregando CSS
+| |/  
+|/|   
+* | cd42a88 Agregando HTML
+|/  
+* 62d6272 Se plantea en el archivo .gitignore que git ignore todos los archivos .exe
+* 0e3e730 Creando licencia del repositorio
+* c27217b Se realizarón nuevos cambios al contenido del README.md
+* 409c3bd Se agrego texto al archivo README.md
+* 4a14f96 Primer Commit
